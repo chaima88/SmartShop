@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "238646619368",
+    "project_id": "smartshop-af956",
+    "storage_bucket": "smartshop-af956.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238646619368:android:f1fca8336c849aa4202d5d",
+        "android_client_info": {
+          "package_name": "com.chaima.smartshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWOkVp8PyYJAq97HKLQ-IrxKW_nar1-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
